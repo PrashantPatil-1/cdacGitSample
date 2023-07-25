@@ -1,0 +1,24 @@
+1. Write a program to print no of comparisions done to search a key in
+	i. linear search
+	ii. binary serach
+
+2. Create array of employees and search employee by 
+	i. empid
+	ii. name
+	iii. salary
+
+3. find the first non-repeating element:
+	Input: { 1, 2, 3, -1, 2, 1, 0, 4, -1, 7, 8 }
+	Ouput: 3
+
+4. to find rank of an element in a stream of integers.
+rank: rank of a given integer "x", in stream is "total no. of ele's less than or equal to x (including x).
+	
+	Input: { 10, 20, 15, 3, 4, 4, 1 }
+	Ouput: Rank of 4 is: 4
+	
+	
+	
+	
+	
+	

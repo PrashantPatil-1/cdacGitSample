@@ -1,0 +1,16 @@
+1. Implement following algorithms for multi digit numbers
+	i. postfix evaluation
+	ii. prefix evaluation
+	iii. infix to postfix
+	iv. infix to prefix
+
+2. Find maximum value in stack without traversing it.
+
+3. Write a function to find middle node in a linked list.
+
+4. Write a function which will insert values in sorted order into linked list.
+
+5. Write two different functions which return maximum and minimum value from the linked list respectively.
+
+6. Implement linked list of employees.
+

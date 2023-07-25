@@ -1,0 +1,11 @@
+1. Write a function to search key in linked list.(you can write this for any one linked list)
+
+2. Write a function to sort linked.(you can write this for any one linked list)
+
+3. Write a function to display singly linear and circular linked in reverse order.
+
+4. Write a function to reverse singly/doubly linear linked list.
+
+5. Implement singly circular linked list using tail pointer.
+
+6. Implement special cases for add and delete node in doubly linked last.

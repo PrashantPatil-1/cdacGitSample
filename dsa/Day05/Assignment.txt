@@ -1,0 +1,6 @@
+1. Implement stack, queue and deque using linked list.
+
+2. Write recursive function to add node into bst.
+
+3. find loop into linked list.
+

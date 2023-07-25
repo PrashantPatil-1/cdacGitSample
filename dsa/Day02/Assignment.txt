@@ -1,0 +1,13 @@
+1. Write a selection sort function to sort array and returns no of comparisions.
+
+2. Write a bubble sort function to sort array and returns no of comparisions.
+
+3. Write a insertion sort function to sort array and returns no of comparisions.
+
+4. Write a function to sort employees by their salary.
+ 
+5. Write a program to implement descending stack. (Initialize top = SIZE)
+
+6. Write program to implemenet queue in which front and rear starts at 0.
+
+7. Write a function which will give you a priority of a given operator. (This priority will be further used to compare two operators)

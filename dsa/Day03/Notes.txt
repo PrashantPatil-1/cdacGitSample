@@ -1,0 +1,64 @@
++ "queue": 
+	- it is a collection/list (i.e.  array or linked list) of logically related similar
+	type of elements into which element can be added from one end reffered as "rear" end,
+	and ele can be deleted from another end reffered as "front" end.
+	- in this list element which was added first can be deleted first, so this list works
+	in "first in first out" manner, and hence it is also called as "FIFO" list.
+	OR "LILO" -- last in last out.
+	- we can perform two operation on queue:
+		1. enqueue -- to insert/add/push element into the queue
+		2. dequeue -- to remove/delete/pop element from the queue
+
+	- there are different types of queue:
+	1. linear queue
+	2. circular queue
+	3. priority queue:
+		- it is a queue in which element can be added from rear end randomly and element
+		having highest priority can only be deleted first.
+		- priority queue can be implemented by using linked list
+		- it can be implemented efficiently by using "binary heap".
+		
+	4. double ended queue i.e. "deque"
+		- it is a queue in which element can be added as well as deleted from both the ends
+		- we can perform four operations on deque:
+			1. push_front() -- insert/push/add ele from front end
+			2. push_back() -- insert/push/add ele from back end
+			3. pop_front() -- remove/delete/pop ele from front end
+			2. pop_back() -- remove/delete/pop ele from back/rear end
+		- dequeu can be implemented by using doubly circular linked list.
+
++ "applications of queue":
+	- queue can be used to implement advanced data algo's like "bfs" breadth first search
+	in tree and graph.
+	- queue can be used to implement os algorithms like cpu shed algos's - priority sched
+	 algo, FCFS etc..., page replacement algo's -- FIFO, disk sched algo's
+	 - queue can be used to implement kernel/os data structures like job queue, ready queue
+	 waiting queue etc....
+	 - queue can be used in an application where the requirement is in a collection/list 
+	 of ele's list works in "first in first out".
+	 
+------------------------------------------------------------------------------------
++ "stack":
+	- it is a collection/list (i.e. array or linked list) of logically related similar type of
+	elements into which element can be added as well deleted from only one end reffered as "top"
+	 end.
+	 - in this list the element which was added last can only be removed first, so this list
+	 works in "last in first out" manner, and hence it is also called as "LIFO" list.
+	 OR "FILO" list.
+	- we perform three operations on stack:
+	1. push -- insert/add element into the stack from top end
+	2. pop -- delete/remove element from the stack which is at top end
+	3. peek -- to get element which is at top position
+	
++ "applications of stack":
+	- stack is used by an os to control flow of an execution of a programs
+	- stack can be used internally by an os in the process of recursion
+	- undo and redo functionalities of an os uses stack
+	- stack can be used to implement advanced data structure algo's like "dfs" depth
+	first search in tree and graph.
+	- stack can be used in any applications where in a collection/list of elements works
+	in last in first out manner.
+	- stack can be used to implement algo's like:
+		- conversion of infix expreesion into its eq postfix and prefix
+		- evalution of postfix expression
+
